@@ -1,5 +1,5 @@
 This is admin service dash board.
 
-get the user data login and logout 
+login anf logout
 
-closing the connection.
+closing connections.
